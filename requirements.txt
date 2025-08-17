@@ -1,0 +1,5 @@
+# Project dependencies for kaino_bot.py
+# Pinned to versions compatible with the current code (Application API from v20.x)
+python-telegram-bot==20.7
+# HTTP client for AI proxy calls
+requests>=2.28.0,<3.0.0
